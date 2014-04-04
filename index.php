@@ -23,7 +23,7 @@ include('lib/menu.inc');
 <BR><div align="center"><font color="BLUE" ><b>СОЗДАНИЕ&nbsp СЛОВАРНОГО&nbsp ЗАПАСА&nbsp АНГЛИЙСКОГО&nbsp ЯЗЫКА<BR> <!--ДОСТАТОЧНОГО&nbsp ДЛЯ&nbsp ЧТЕНИЯ&nbsp ОРИГИНАЛЬНОЙ&nbsp ЛИТЕРАТУРЫ.--></b></div><BR><BR>
 <div align="left"><font style= "color:BLACK;">
 <div align="left"><b><i>- Отмечаете по 10 - 25 новых слов  каждый день из читаемого  текста. Что упрощает чтение и улучшает запоминание слов в контексте.</i></b></div><BR>
-<div align="left"><b><i>- Повт  уже отмеченные слова методом<a href="FlashCards.php" id="c1" >"Flash cards (карточки)"</a> по <a href="memCalendar.php" id="c1" >календарной/интервальной схеме.</a><BR>
+<div align="left"><b><i>- Повт111  уже отмеченные слова методом<a href="FlashCards.php" id="c1" >"Flash cards (карточки)"</a> по <a href="memCalendar.php" id="c1" >календарной/интервальной схеме.</a><BR>
 Это порядка 150 – 200 слов в день, что занимает 10-15 мин.</i></b></div><BR>
 
 <div align="left"><b><i>- В течение года вы создадите  свой словарный запас  достаточный для чтения оригинальной литературы. 
