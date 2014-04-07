@@ -1,0 +1,53 @@
+#body_words {
+   background-color: #366D6C;  
+   font-family:Tahoma;
+   color: #000000;
+}
+
+.main_table{
+ position:absolute;
+ left:455px;top:10px;
+ background-color:#FFFFFF;
+ height:0px;
+ z-index:0;
+ width: 250px;
+ border-width : 2px;
+ border-style: solid;
+ border-color: BLACK;
+ padding:0;
+ font-family:Tahoma;
+ display:block;
+  }
+
+.frame_table
+ {
+ color: WHITE;    
+ position:absolute;    
+ border-color: WHITE;    
+ border-width : 2px;
+ border-style: solid;    
+ }
+ 
+ .capt
+ {
+ position:absolute;
+ text-align:center;    
+ color: white;
+ margin:0;padding:0;
+ font-size:11px;
+ font-family: Arial;
+  z-index:0;    
+ }
+ 
+ .bt
+ {
+ position:absolute;
+ text-align: center;
+ width:126px;height:20px;
+ margin:0;padding:0;
+ font-family:Tahoma;font-size:11px;z-index:0; 
+ font-family:Tahoma; 
+ }
+ 
+ 
+ 

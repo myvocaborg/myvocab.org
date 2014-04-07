@@ -1,0 +1,176 @@
+.main_memu{
+ position:absolute;
+  left:0px;top:0px;
+ background-color:#56769D;
+ height:15px;
+ z-index:0;
+ width: 100%;
+ border: thin;
+ text-align: center;
+ font-family:Tahoma;
+ cellpadding: 0; 
+ cellspacing: 0;
+ }
+ 
+
+ 
+#body_words {
+ 
+   
+   background-color: #56769D;
+    background-color: #0072BC;
+    background-color: #1C515E;
+   color: #000000;
+}
+
+ 
+ table
+ {
+ border-collapse:collapse;
+ }
+ 
+ .main_table{
+ position:absolute;
+left:600px;top:25px;
+ background-color:#FFFFFF;
+ height:0px;
+ z-index:0;
+ width: 280px;
+ border-width : 2px;
+ font-family:Tahoma;
+ border-style: solid;
+ border-color: BLACK;
+ padding:0;
+   }
+ 
+.td_idS{ width: 20px; text-align: center; display: center;   }
+.td_date{ width: 65px; text-align: center; }
+.td_word{ text-align: center; } 
+.td_NT{width: 20px; text-align: center; } 
+.td_iteration{width: 20px; text-align: center; }
+ 
+ .capt
+ {
+ position:absolute;
+ text-align:center;    
+ color: white;
+ margin:0;padding:0;
+ font-size:11px;
+ font-family: Arial;
+ z-index:0;    
+ }
+ 
+ .frame_table
+ {
+ color: WHITE;    
+ position:absolute;    
+ border-color: WHITE;    
+ border-width : 2px;
+ border-style: solid;    
+ }
+ .bt
+ {
+ position:absolute;
+ text-align: center;
+ width:122px;height:25px;
+ font-family:Tahoma;font-size:11px;z-index:0; 
+ margin:0;padding:0;
+ }
+ 
+ .bt_l
+ {
+ position:absolute;
+ text-align: center;
+ width:135px;height:25px;
+ font-family:Tahoma;font-size:11px;z-index:0; 
+ margin:0;padding:0;
+ }
+ 
+ 
+ 
+ td{
+ border-width : 1px;
+ border-style: solid; 
+ border-color: gray;
+ font-size: 12px;   
+ }
+ .td_main
+ {
+  
+  background-color:white;
+  }
+
+ 
+.memu_href
+{ 
+
+color: #FFFFFF;
+font-size: 14px;
+font-family: Arial;
+}
+
+ .icon_href
+{ 
+
+ color: #FFFFFF;
+font-size: 14px;
+font-family: Arial;
+}
+
+
+
+.dialog_label, .dialog_input, .dialog_error  {
+   padding: 10px;
+   color: #000;
+   text-align: right;
+   float: left; 
+   width: 150px;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+.dialog_long_label { 
+   padding: 10px;
+   color: #000;
+   text-align: center;
+   width: 100%;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+.dialog_links {
+   display: block;
+   font-size: 14px;
+   font-weight: bold;
+   color: #000;
+   padding: 10px;
+   width: 100%;
+   text-align: center;
+}
+
+.dialog_modal_title {
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 15px;
+  width: 100%;
+  text-align: center;
+}
+
+.dialog_input {
+   width: 150px;
+}
+
+.dialog_error {
+   width: 100%;
+   text-align: center;
+   color: #F00;
+}
+
+.dialog_input input {
+   width: 100%;
+   font-weight: normal;
+}
+
+#login {
+   background: #123;
+}

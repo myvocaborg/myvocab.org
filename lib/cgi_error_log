@@ -1,0 +1,134 @@
+20130820T090326: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T090333: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/connect_db.php on line 14
+PHP Warning:  include(error.html.php): failed to open stream: No such file or director
+20130820T090336: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092618: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092625: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/connect_db.php on line 14
+PHP Warning:  include(error.html.php): failed to open stream: No such file or director
+20130820T092633: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092637: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092644: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  mysqli_connect(): (HY000/2002): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/connect_db.php on line 14
+PHP Warning:  include(error.html.php): failed to open stream: No such file or director
+20130820T092804: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092807: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092814: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php:19) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 66
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd1
+20130820T092830: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php:57) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 66
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd1
+20130820T092909: myvocab.org/1/www/textwords.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/textwords.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sess
+20130820T092909: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092917: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php:19) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 66
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd1
+20130820T092944: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T092946: myvocab.org/1/www/registry.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/registry.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessi
+20130820T092955: myvocab.org/1/www/lib/registration.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/registration.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/p
+20130820T092955: myvocab.org/1/www/textchoice.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/textchoice.php on line 3
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_ses
+20130820T092955: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T093453: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_94a31ee8e7fd13bbbaf42c5b2e5bd11b, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php:19) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 66
+PHP Warning:  Unknown: open(/var/php_sessions/sess_94a31ee8e7fd1
+20130820T103500: myvocab.org/1/www/index.php
+suexec policy violation: see suexec log for more details
+
+20130820T103544: myvocab.org/1/www/index.php
+suexec policy violation: see suexec log for more details
+
+20130820T103635: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T103643: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php:19) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 66
+PHP Warning:  Unknown: open(/var/php_sessions/sess_8a977f7796397
+20130820T104447: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T104450: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T104457: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php:19) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 66
+PHP Warning:  Unknown: open(/var/php_sessions/sess_8a977f7796397
+20130820T104748: myvocab.org/1/www/index.php
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll' - c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll' - c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic libr
+20130820T104755: myvocab.org/1/www/index.php
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll' - c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll' - c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic libr
+20130820T104922: myvocab.org/1/www/index.php
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll' - c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll' - c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic libr
+20130820T104923: myvocab.org/1/www/index.php
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll' - c:/wamp/bin/php/php5.3.5/ext/php_gd2.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic library 'c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll' - c:/wamp/bin/php/php5.3.5/ext/php_mbstring.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+PHP Warning:  PHP Startup: Unable to load dynamic libr
+20130820T104959: myvocab.org/1/www/index.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/index.php on line 2
+PHP Warning:  Unknown: open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in Unknown on line 0
+PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/var/php_sessions
+20130820T105008: myvocab.org/1/www/lib/login.php
+PHP Warning:  session_start(): open(/var/php_sessions/sess_8a977f77963976fcdb7ae0ecc28b6c73, O_RDWR) failed: No such file or directory (2) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 2
+PHP Warning:  Cannot modify header information - headers already sent by (output started at /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php:19) in /hermes/bosoraweb038/b1372/ipg.myvocaborg/1/www/lib/login.php on line 66
+PHP Warning:  Unknown: open(/var/php_sessions/sess_8a977f7796397

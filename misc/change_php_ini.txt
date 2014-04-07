@@ -1,0 +1,4 @@
+short_open_tag = On
+max_execution_time = 180
+display_errors = Off
+display_startup_errors = Off

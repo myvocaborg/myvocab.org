@@ -1,0 +1,17 @@
+ALTER TABLE  `s31` ADD UNIQUE (`id`);
+
+ALTER TABLE  `t31` ADD UNIQUE (`id`);
+
+
+
+ALTER TABLE  `uw31` DROP  `idMVw`;
+
+ALTER TABLE  `uw31` CHANGE  `word`  `wordO` VARCHAR( 255 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
+
+ALTER TABLE  `uw31` ADD UNIQUE (`id`);
+ALTER TABLE  `uw31` ADD UNIQUE (`wordO`);
+
+ALTER TABLE  `word31` CHANGE  `Word`  `wordO` VARCHAR( 255 ) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL;
+
+
+ALTER TABLE  `word31` ADD UNIQUE (`id`);

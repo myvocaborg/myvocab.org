@@ -1,0 +1,35 @@
+idLearn - сортировка по idLearn
+ALTER TABLE `mvdone3` ADD `idLearn` INT NOT NULL DEFAULT '0';
+============================================================================
+
+
+
+iterationE - невспомнил
+iterationO - вспомнил
+m - 1,0 - последнее вспомнил ,последнее не вспомнил
+
+
+========================================================================
+NS - колличество знаю подряд
+
+ALTER TABLE  `mvdone1` ADD  `TimeClick` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP AFTER  `NT` ;
+
+
+========================================================================
+
+for ($i = 1; $i <= 10; $i++) {
+    echo $i;
+}
+
+
+
+for ($i = 1; $i <= 81; $i++) {
+ALTER TABLE mvdone3 ADD idLearn INT NOT NULL DEFAULT '0';
+StrSQL ALTER TABLE mvdone3 ADD TimeClick TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP AFTER  `NT`;
+UPDATE mvdone3 SET mvdone3.TimeClick = mvdone3.date50 ;
+}
+
+
+UPDATE mvdone3 SET mvdone3.NS = 1;
+UPDATE mvdone3 SET mvdone3.m = 1;
+UPDATE mvdone3 SET mvdone3.iterationO = 1;

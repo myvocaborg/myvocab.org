@@ -1,0 +1,54 @@
+.main_memu{
+ position:absolute;
+  left:0px;top:0px;
+ 
+ 
+ background-color:#84A1C6;
+ background-color:#B0DCE6;
+  background-color:#3DA9C3;
+ height:15px;
+ z-index:0;
+ width: 100%;
+ border: thin;
+ text-align: center;
+ font-family:Tahoma;
+ cellpadding: 0; 
+ cellspacing: 0;
+ }
+ 
+  table
+ {
+ border-collapse:collapse;
+
+ }
+
+td{
+ border-width : 1px;
+ border-style: solid; 
+ border-color: gray;
+ font-size: 12px;   
+ } 
+ 
+ 
+ .memu_href
+{ 
+
+color: #FFFFFF;
+font-size: 14px;
+font-family: Arial;
+} 
+.login_table{
+ position:static;
+ font-size: 12px;
+ background-color:#FFFFFF;
+ width: 10%;
+ height:100px;
+ margin:auto;
+ z-index:0;
+ border-width : 2px;
+ font-family:Tahoma;
+ border-style: solid;
+ border-color: blue;
+ padding:0;
+
+   }
