@@ -3,14 +3,14 @@ git@github.com:myvocab/myvocab.git
 https://github.com/myvocab/myvocab.git
 
 git remote add origin https://github.com/myvocab/myvocab.git
-
+git 
 Create a new repository on the command line
 touch README.md
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/myvocab/myvocab.git
-git push -u origin master
+git push -u myvocab master
 
 
 git clone git://github.com/schacon/grit.git
