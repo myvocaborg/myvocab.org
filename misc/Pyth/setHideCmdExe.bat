@@ -1,1 +1,0 @@
-c:/Python27/Scripts/cxfreeze C:/Python27/sam8.py --base-name=Win32GUI --target-dir  C:/Python27/Dist
