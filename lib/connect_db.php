@@ -15,7 +15,7 @@ else
 {   
     	$host="localhost"; // Your Host Name
         $user_name="root";  // username
-        $password=""; // Password
+        $password="#like@des!"; // Password
 		$db="vocab"; // Database Name
         $mySqlTZ=2*60*60;
 }
