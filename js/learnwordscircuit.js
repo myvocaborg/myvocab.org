@@ -240,7 +240,7 @@ if (lastA[id]==-1)
 LastCh=0;
 document.getElementById('LastA').value =  "НЕ ЗНАЮ";    
 }
-if (lastA[id]==0){HL=1;}
+//////if (lastA[id]==0){HL=1;}
 //Math.ceil(19276951/86400));
 //getHours()  getMonth() getMinutes()
 idCurr=id;

@@ -8,7 +8,7 @@ HLtmp=HL;
 chtmp=ch;
 //document.getElementById('wordsPass').value = idCurr+1; 
   
-  
+ if (lastA[idCurr] != ch) {HLtmp=1};
   
   
   
