@@ -188,7 +188,7 @@ while ($row = mysqli_fetch_array($res))
 //echo $mvidSort."@(@".$mvW."@(@".$mvTrnsl."@(@".$mvTrnsc."@(@".$mvDate."@(@".$mvPr."@(@".$mvOW."@(@".$mvNP."@(@".$mvIterationE;
 echo $mvEW."@(@".$mvTrnsl."@(@".$mvTrnsc."@(@".$mviterE."@(@".$mviterO."@(@".$mviterOrow."@(@".$mvdateSt."@(@".$mvlastA."@(@".$mvlastDate."@(@".$mvUnixLD;
 
-//echo $strSQL1;
+/////echo $strSQL1;
 */
 ?>
 
