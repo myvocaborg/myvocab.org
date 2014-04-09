@@ -87,7 +87,7 @@ echo $NRAll." - ".$NRPart."&nbsp;&nbsp;&nbsp; NS=7  30.5*secInDay</br>";
 
 
 /*===================================================
-echo $strSQL;
+
 
 
 
