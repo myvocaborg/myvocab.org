@@ -97,7 +97,7 @@ $result = mysqli_query($link, $strSQL);
 
 
 
-//if not full
+//if not full  hhh
 $strSQL = 'SELECT COUNT(*) FROM mvdone'. $userId .' WHERE (idLearn=1) ORDER BY idSort';
 $res = mysqli_query($link, $strSQL); $row = mysqli_fetch_array($res); $NRAll = $row[0];
 if ($NRAll<25)
